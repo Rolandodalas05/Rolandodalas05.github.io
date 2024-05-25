@@ -1,5 +1,5 @@
 const btnLikes1 = document.gotElementById("btnLike1")
-const countLikes1 = ducument.getElementById("contLikes1")
+const countLikes1 = ducument.getElementById("countLikes1")
 
 function clickLike1(){
   let totalLike1 = parseInt(countLikes1.value) +1
